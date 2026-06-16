@@ -7,7 +7,8 @@
 
 
 ## Overview
-'Will Write Soon...'
+
+This analysis examines Japan's bilateral trade position using UN Comtrade data across 6 economies from 2014-202, with the goal of identifying [soon]. The findings below progress from Japan's recent crisis history through its current supply chain risks to its projected trajectory.
 
 
 ## Key Finding 1 - The 2022 Energy-Currency Crisis
@@ -45,14 +46,10 @@ become its next point of decline rather than its only source of growth.
 
 ## Key Finding 4 - The Widening Future (forecast)
 
-Export growth trend:  +$8.85bn per year
-Import growth trend: +$12.47bn per year
-Gap: imports growing $3.62bn FASTER than exports every year
+Linear trend analysis shows Japan's exports growing at +$8.85bn per year while imports grow faster at +$12.47bn per year - a structual gap of $3.62bn that widens annually. Projecting this trend forward, Japan's trade deficit is expected to deepen from -$34bn in 2023 to -$47.8bn in 2024, -$51.5bn in 2025, and -$55.1bn by 2026, with no reversal visible under current conditions. This projecttion is a linear extrapolation and carries real limitations: it cannot account for yen recovery, Bank of Japan interest rate changes, newly imposed US tariffs, EV-driven disruption to the 
+Automotive sector, or nuclear restarts that could meaningfully reduce the energy import bill. Any of these factors could bend this trajectory significantly in either direction - but absent intervention, the structural forces identified in this analysis point toward continued deterioration.
 
-Projected:
-2024: -$47.8bn deficit
-2025: -$51.5bn deficit
-2026: -$55.1bn deficit
 
-Japan's deficit is structural and widening. Under the current trajectory, Japan will be running a -$55bn deficit by 2026 with no reversal in sight.
-The honest limitation: This is a linear projection. It assumes tomorrow looks like yesterday. It does not account for: yen recovery, BOJ interest rate changes, US tariffs on Japanese goods, EV disruption of Automotive, nuclear restarts reducing energy imports, or any geopolitical shock. These could all bend the line significantly in either direction.
+
+
+# Recommendations
