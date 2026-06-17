@@ -53,3 +53,19 @@ Automotive sector, or nuclear restarts that could meaningfully reduce the energy
 
 
 # Recommendations
+
+
+
+
+
+
+# Forecast Validation 
+
+Japan's official customs trade data (Ministry of Finance) tells a very different story than my linear model predited.
+
+Japan's 2024 trade deficit came in at almost ¥5.5 trillion - the fourth consecutive year of deficit - with exports rising 
+6.2% to record ¥107.1 trillion (highest since 1979), driven by semiconductor manufacturing equipment exports to China and higher automobile export value from price hikes combined with the weak yen, while imports rose only 2% to ¥112.6 trillion. 
+Converting at roughly ¥151/$ for 2024, that's approximately -$36bn - not our forecasted -$47.8bn.
+
+2025 is where it gets dramatic. Japan's full-year 2025 trade gap came in around ¥2.65 trillion, down 52.9% from the prior year, and by November 2025 Japan even logged its first monthly trade surplus in five months. That's roughly -$18bn for 2025 -
+nowhere close to my forecasted -$51.5bn.
