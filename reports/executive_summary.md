@@ -52,14 +52,26 @@ Automotive sector, or nuclear restarts that could meaningfully reduce the energy
 
 
 
-# Recommendations
+
+## Recommendations
+
+#### 1. Energy:
+
+Accelerate nuclear reactor restarts and expand renewable energy capacity (solar, offshore wind) to reduce the 90% energy import dependency that drove the 2022 -$152bn crisis. Reducing reliance on imported fuel directly insulates Japan's trade balance from future yen-currency and global energy-price shocks occurring simultaneously.
+
+#### 2. China Diversification:
+
+Reduce China's import share from 22.4% toward an 18-19% target by deepening trade ties with the United States, Australia, and South Korea - exisiting allied partners already supply meaningful import volume. This directly addresss the disrution scenario finding: narrowing China's share lowers the GDP shock Japan would absorb if that relationship were disrupted.
+
+#### 3. EV transition:
+
+Increase domestic investment in EV manufcaturing to protect Japan's only growing export sector before competition from China's EV makers (such as BYD) further erodes Automotive's position. China's rapid EV adoption in cities like Shenzhen demonstrates the pace at which this shift can occur - Japan's hybrid-heavy strategy risks falling behind if it does not accelerate in parallel. 
 
 
 
 
 
-
-# Forecast Validation 
+## Forecast Validation 
 
 Japan's official customs trade data (Ministry of Finance) tells a very different story than my linear model predited.
 
