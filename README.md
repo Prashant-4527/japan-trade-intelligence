@@ -3,7 +3,7 @@
 *A bilateral trade intelligence system analyzing Japan's economic vulnerabilities, built as preparation for METI IPA 2027.*
 
 ---
-
+![Japan Trade Trend](reports/japan_trade_trend.png)
 ## Overview
 
 This project analyzes Japan's bilateral trade position using UN Comtrade data across six economies — Japan, China, USA, Germany, South Korea, and the United Kingdom — from 2014 to 2023. It asks one core question: **where is Japan structurally exposed, and what happens if that exposure is tested?** The analysis moves from Japan's recent trade-deficit history, through sector-level dependency and concentration risk, to a forward-looking forecast that is then validated against actual 2024-2025 Ministry of Finance data.
