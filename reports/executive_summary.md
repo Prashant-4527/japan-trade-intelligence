@@ -8,7 +8,7 @@
 
 ## Overview
 
-This analysis examines Japan's bilateral trade position using UN Comtrade data across 6 economies from 2014-202, with the goal of identifying [soon]. The findings below progress from Japan's recent crisis history through its current supply chain risks to its projected trajectory.
+This analysis examines Japan's bilateral trade position using UN Comtrade data across 6 economies from 2014-2023. The findings below progress from Japan's recent crisis history through its current supply chain risks to its projected trajectory.
 
 
 ## Key Finding 1 - The 2022 Energy-Currency Crisis
@@ -25,7 +25,7 @@ and Russia's invasion of Ukraine driving gloabl energy price sharply upward. Bec
 China supplies 22.4% of Japan's total imports ($168bn) — more than double the 10% threshold economists flag as high-risk, and Japan's 
 only partner above 20%. Unlike Australia or the USA, China is a geopolitical rival rather than an ally, making this concentration strategically significant. Japan's HHI concentration score of 827 technically falls in the "unconcentrated" category, but this is misleading: Japan trades with 220 countries, 200 of which contribute less than 1% each and cannot realistically replace China's supply if disrupted. China's import share has remained stuck between 21-26% for the full decade, suggesting Japan's 2021 Economic Security Promotion Act has not yet reduced this dependency in practice. A 
 supply disruption simulation reveals a paradox: if China reduced exports by 30%, Japan's trade balance would actually IMPROVE to a 
-+$16.6bn surplus — because the import bill shrinks faster than export revenue changes — while the economy absorbs a 6% GDP supply 
++$16.6bn surplus — because the import bill shrinks faster than export revenue changes — while the economy absorbs a 30% GDP supply 
 shock as factories lose access to critical components. A healthier trade balance during a supply crisis is not good news; it reflects 
 Japan's inability to purchase what it needs.
 
