@@ -69,6 +69,12 @@ Increase domestic investment in EV manufcaturing to protect Japan's only growing
 
 
 
+## Limitations:
+
+This analysis carries three notable boundaries. First, the sector breakdown covers only six major HS commodity categories (Automotive, Electronics, Machinery, Chemicals, Steel & Metals, and Energy) rather than the full product complexity within Japan's trade - finer-grained - sub-categories could reveal additional structual shifts not visible at this level of aggregation. Second, the 2024-2026 forecast relies on linear trend extrapolation, which proved measurably iaccurate when validated against actual outcomes: the model projected a -$47.8bn deficit for 2024 against an actual deficit of roughly -$36bn, and oversetimated the 2025 deficit by approximately $33bn, missing a semiconductor export surge and stronger-than-expected hybrid vehicle demand that a 10-year linear model could not anticipate. Third, the supply chain risk analysis tests only a single-shock scenario - a reduction in Chinese exports - and does not model compounding or simultaneous disruptions, such as a China shock occurring alongside another energy price spike, which the 2022 crisis suggests is a realistic possibility rather than a worst-case outlier.
+
+
+
 
 
 ## Forecast Validation 
