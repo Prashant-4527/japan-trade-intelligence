@@ -6,4 +6,4 @@ jupyter
 openpyxl
 python-dotenv
 fredapi
-EOF
+
