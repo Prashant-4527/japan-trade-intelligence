@@ -86,4 +86,4 @@ japan-trade-intelligence/
 ## Author
 
 **Prashant** ([@Prashant-4527](https://github.com/Prashant-4527))
-BCA student, Maharaja Government College, Jaipur — building toward METI IPA 2027.
+BCA student, University of Commerce College, Jaipur — building toward METI IPA 2027.
